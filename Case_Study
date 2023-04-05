@@ -1,4 +1,15 @@
 
+Nathaniel Gong, Tony Huang, Lyca Mangarin, Kartik Tripathi
+CS 230
+Lynn Grewe
+April 4th, 2023
+
+Item 1: Case Study 
+
+The Cambridge Analytica case was a data scandal that emerged in 2018, involving the British political consulting firm Cambridge Analytica and its acquisition of data from millions of Facebook users without their knowledge or consent. The issue at the heart of the case was the unethical and potentially illegal collection of personal data by Cambridge Analytica, which was then used to create highly targeted political advertising during the 2016 US presidential election. The data was obtained through an app created by Aleksandr Kogan, a data scientist and app developer who sold it to Cambridge Analytica. As a result of the scandal, Facebook came under intense scrutiny for its handling of user data, with CEO Mark Zuckerberg being called to testify before the US Congress. Cambridge Analytica ultimately went bankrupt, while Kogan and Wylie faced legal action over their role in the data collection [1].
+In terms of the personal ethical frameworks of the stakeholders involved, there were a range of actions and decisions taken. For Cambridge Analytica, the pursuit of profit and political influence appeared to take precedence over ethical considerations around data privacy and informed consent. Kogan and Wylie may have been motivated by financial gain or a desire to expose unethical practices, but their actions in collecting and selling user data without permission were also highly questionable. For Mark Zuckerberg and Facebook, the ethical framework around data privacy and user consent was more ambiguous. While the company claimed to value user privacy and data protection, it also sought to maximize profits and leverage user data for advertising purposes. The resulting scandal forced the company to reevaluate its policies and practices around data privacy [2]. Finally, for consumers, the Cambridge Analytica case highlighted the need for greater awareness and control over their personal data. While some users may have been willing to share their data with the app in exchange for a personality quiz or other features, they were likely unaware of the scale and implications of the data collection. The case prompted a broader conversation around data privacy and the responsibility of companies and individuals to protect personal information.
+
+
 Item 2: Personal Ethics
 
 The evaluation of the scandal's impact on one's personal code of ethics entails comparing one's own moral principles 
@@ -43,6 +54,9 @@ In conclusion, both personal and professional ethics stress the importance of et
 
 
 REFERENCES:
+[1] Vedova, H., & Technology, T. F. T. C. O. of. (2022, January 27). FTC issues opinion and order against Cambridge Analytica for deceiving consumers about the collection of Facebook data, compliance with EU-U.S. Privacy Shield. Federal Trade Commission. Retrieved April 4, 2023, from https://www.ftc.gov/news-events/news/press-releases/2019/12/ftc-issues-opinion-order-against-cambridge-analytica-deceiving-consumers-about-collection-facebook 
+[2] Final order of the commission - federal trade commission. (n.d.). Retrieved April 4, 2023, from https://www.ftc.gov/system/files/documents/cases/d09389_comm_final_orderpublic.pdf 
+
 [1] Association for Computing Machinery. “ACM Code of Ethics and Professional Conduct.” ACM. https://www.acm.org/code-of-ethics
 [2] Federal Trade Commission. “Cambridge Analytica, LLC, In the Matter of.” FTC. https://www.ftc.gov/legal-library/browse/cases-proceedings/182-3107-cambridge-analytica-llc-matter
 [3] K Lucas., JP Fyke."Euphemisms and ethics: A language-centered analysis of Penn State's sexual abuse scandal."https://link.springer.com/article/10.1007/s10551-013-1777-0
